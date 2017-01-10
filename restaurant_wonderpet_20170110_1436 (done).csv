@@ -1,0 +1,121 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Other ID,Integration,Owned By,Comment,Comment,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status
+137336837,"As a customer, i can print receipt so that i can see what transaction that have been make","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,After payment can click print receipt to generate a receipt,https://www.pivotaltracker.com/story/show/137336837,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/5b29ebf3bd9b7820954884965f6317e3b0519457
+
+[Finished #137336837] (Wee ShengHao - Jan 10, 2017)","Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/e8282f0b3df9930ce48e92304bb5c8b2b139418f
+
+[Finished #137336837] (Wee ShengHao - Jan 10, 2017)",Fixing the receipt display format and any bug and error,completed,Add a button in the payment user interface ,completed,Create a display format to display a payment receipt,completed,Writing the source code to display the receipt ,completed,Testing the link between the payment and the receipt whether got linked,completed,Completed,completed
+137339199,"As a customer, I can login to the system so that I can edit and view my information and more detail on restaurant.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,"username and password used to login and name, address, phone number can be changed after login.",https://www.pivotaltracker.com/story/show/137339199,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/d1b1987a0eda0465f53245ea28dbe69c04738450
+
+[Finished #137339199] (Wee ShengHao - Jan 10, 2017)","Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/361d82836d2ad91f9a5533e4a142a32ae259d982
+
+[FInished #137339199,#137339391] (Wee ShengHao - Jan 10, 2017)",Create login user interface,completed,Coding for the login function.,completed,Testing the login function and fix the bug.,completed,Completed.,completed
+137340193,"As an admin, I can view the member list so that i can find the member details I want.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,The admin can click on View Member to display the member list.,https://www.pivotaltracker.com/story/show/137340193,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/de0bf79494c0d6b58a66f753fb491b0b8f8cc228
+
+[Finished #137340193] (Wee ShengHao - Jan 10, 2017)",,Create the view member list user interface .,completed,Write the source code for view member list function.,completed,Testing the view member list function and fix the bug.,completed,Completed.,completed
+137340329,"As an admin, I can delete member detail so that unrenew member are removed.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,The admin need to choose a member ID and click delete to remove the selected member,https://www.pivotaltracker.com/story/show/137340329,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/f373d035a89a7d9f576231407c60562cd1a94cbf
+
+[Finished #137340329] (Wee ShengHao - Jan 10, 2017)",,Create a delete member detail user interface.,completed,Write the source code for delete member detail function.,completed,Testing the delete member detail and fix the bug.,completed,Completed.,completed
+137340555,"As an admin, I could add new menu so that customer can order our new menu.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,"The admin can need to enter food id, name , price and type, to create new menu.",https://www.pivotaltracker.com/story/show/137340555,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/de22251e28549a6b679f44494d452c6b48a70bf1
+
+[Finished #137340555] (Wee ShengHao - Jan 10, 2017)",,Create an add new menu user interface.,completed,"Write the source code for add new menu function with name,price and type of food required.",completed,Testing the add new menu function and fix the bug.,completed,Completed,completed
+137339391,"As an customer, i can register as member so that i can login into the system.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Choo,"To create new member we need member id, name, phone number, address, date of birth",https://www.pivotaltracker.com/story/show/137339391,OngKaiLun/Wonderpet,Other,Choo,"Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/93e8da907b74f3275f259582d5c51653467dd107
+
+[Finished #137339391] (Wee ShengHao - Jan 10, 2017)","Commit by Choo Chyau Hoong
+https://github.com/OngKaiLun/Wonderpet/commit/361d82836d2ad91f9a5533e4a142a32ae259d982
+
+[FInished #137339199,#137339391] (Wee ShengHao - Jan 10, 2017)",Create a registration as a member user interface.,completed,"Write the source code for registration as a member such as name,phone number,address and date of birth required.",completed,Testing the registration as a member and fix the bug.,completed,Completed.,completed
+137345101,"As an admin, I can delete menu so that unwanted menu are removed.				","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,,https://www.pivotaltracker.com/story/show/137345101,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/38a22ac0d6fd9899927cfaaf02cb6d5088c56994
+
+[FINISHED #137345101] (Wee ShengHao - Jan 10, 2017)",,Create interface for remove a menu,completed,"Write source code to remove the menu with the food id is required to find the menu
+",completed,"Testing the code validation
+",completed,"Fixing any error and bugs
+",completed,Completed,completed
+137346789,"As an admin, i can search menu so that i can view the menu more detail.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,"The admin need to enter the menu id to get the menu detail.
+",https://www.pivotaltracker.com/story/show/137346789,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/d6df0994262dd9d095daa4fc289cf655edfc8e49
+
+[FINISHED #137346789] (Wee ShengHao - Jan 10, 2017)",,"Create a user interface to search a menu
+",completed,"Write the source code to find the menu
+",completed,"Testing the validation for invalid input and empty input
+",completed,"Fixing any bug and errors 
+",completed,"Completed
+",completed
+137347031,"As an admin , i can update menu detail so that the menu information is up to date.
+","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,"Admin need to enter menu id then update what necessary. 
+",https://www.pivotaltracker.com/story/show/137347031,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/436f95b596e2123c1d647889415df41ecfef8cca
+
+[FINISHED #137347031] (Wee ShengHao - Jan 10, 2017)",,"Create a user interface to update the menu information
+",completed,"Writing the source code to update the menu detail 
+",completed,"Testing the code validation like invalid input and empty input.
+",completed,"Completed
+",completed
+137347187,"As a customer , i can update order so that i change my order.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,Enter order id then select which order need to be update,https://www.pivotaltracker.com/story/show/137347187,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/65add3b3a3431ffdd5e4979c713fc72c89cc2132
+
+[finished #137347187] (Wee ShengHao - Jan 10, 2017)",,Create an user interface to update ordered food detail,completed,Writing the source code to update the food ordered,completed,Testing the input validation for invalid input and empty input,completed,Fixing any errors and bugs,completed,Completed,completed
+137347159,"As an admin, i can update staff so that the staff personal detail is up to date.
+","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,"Admin require to enter staff id so that can edit the staff information
+",https://www.pivotaltracker.com/story/show/137347159,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/8ed9a33eaf8d789d7f385fef8222fcef73d1118d
+
+[FINISHED #137347159] (Wee ShengHao - Jan 10, 2017)",,"Create an user interface to update staff personal detail
+",completed,"Writing the source code to update  staff detail
+",completed,"Testing the validation like invalid name, age, date of birth and empty input
+",completed,"Fixing the errors and bugs
+",completed,"Completed
+",completed
+137347573,"As an admin , i can search staff so that i can view the staff more detail.
+","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,"Admin need to enter staff id to view the staff detail
+",https://www.pivotaltracker.com/story/show/137347573,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/1d27c9c002dbca83f5640ca38ef9fef32b1f5677
+
+[FINISHED #137347573] (Wee ShengHao - Jan 10, 2017)",,"Create an user interface to search and view staff detail
+",completed,"Writing the source code to search the staff detail
+",completed,"Testing the validation for invalid staff name, age, date of birth and etc and empty input.
+",completed,"Fixing any bugs and errors
+",completed,"Completed
+",completed
+137347553,"As an admin, i can create new staff so that the new staff can use the system.","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,"the admin need to enter staff name , department , phone number, address, date of birth and salary.",https://www.pivotaltracker.com/story/show/137347553,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/8e414d45266a41c738493d0408db092259fea9ee
+
+[finished #137347553] (Wee ShengHao - Jan 10, 2017)","Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/934a98807014a1513d9a338241d9b3174ca2898c
+
+[FINISHED #137347553] (Wee ShengHao - Jan 10, 2017)",Create an user interface to add new staff detail,completed,Writing the source code for adding new staff,completed,Testing validation with invalid input and empty input,completed,Fix any errors and bugs,completed,Complete,completed
+137347703,"As an admin, i can delete staff so that resign staff information is removed from the system.
+","",,,,feature,2,accepted,"Jan 10, 2017","Jan 10, 2017",,Wee ShengHao,"Admin is require to enter staff id to delete the staff info and click delete button.
+",https://www.pivotaltracker.com/story/show/137347703,OngKaiLun/Wonderpet,Other,Wee ShengHao,"Commit by vijayo
+https://github.com/OngKaiLun/Wonderpet/commit/cce42d194a0b8d630264c6226933c6638956a4a3
+
+[FINISH #137347703] (Wee ShengHao - Jan 10, 2017)",,"Creating an user interface to delete staff 
+",completed,"Writing the source code for delete the staff detail 
+",completed,"Testing validation with wrong staff id input and empty input
+",completed,"Fixing any errors and bugs
+",completed,"Completed
+",completed
+137347787,"As an admin, I could generate and print payment reports so that i can view the report details that i need.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,"sale report , summary report, exception report",https://www.pivotaltracker.com/story/show/137347787,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/29d0113f24188123f2233c0cb9cf8212fbef2d3d
+
+[FINISHED #137347787] (Wee ShengHao - Jan 10, 2017)",,Create a user interface to display the report,completed,Writing source code to display the report,completed,Testing validation see whether the report get the correct data,completed,Fixing any error and bugs,completed,Completed,completed
+137347921,"As a customer , i can make payment so that i can complete the order.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,"To make payment customer need to enter total amount pay and the system will auto get the date and time , userid , tableit.",https://www.pivotaltracker.com/story/show/137347921,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/efff03238f5b87ab3a1c7b93d1da1be951383aa0
+
+[FINISHED #137347921] (Wee ShengHao - Jan 10, 2017)",,Create an user interface for make payment,completed,Writing the source code to do the payment base on the order,completed,"Testing the validation like invalid payment fees , payment type and etc",completed,Fixing any errors and bugs,completed,Completed,completed
+137348085,"As a customer , i can order food so that i can eat the food that i have order.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,To order the customer need to be member and login and make ordering,https://www.pivotaltracker.com/story/show/137348085,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/8a8a99a3920854bbdaf6a81fb05e19140765ca9c
+
+[FINISHED #137348085] (Wee ShengHao - Jan 10, 2017)",,Create an user interface to allow customer to make order,completed,Writing the source code to make an order for the food,completed,"Testing validation like invalid food order, invalid input and empty input",completed,Fixing any errors and bugs,completed,Completed,completed
+137348195,"As a customer , i can check the seat so that i can know what seat are available.","",,,,feature,1,accepted,"Jan 10, 2017","Jan 10, 2017",,KaiLun Ong,Customer can view the available seat from the system.,https://www.pivotaltracker.com/story/show/137348195,OngKaiLun/Wonderpet,Other,,"Commit by OngKaiLun
+https://github.com/OngKaiLun/Wonderpet/commit/8fe80a4a79ecf4099342727c0748f21e2e6b234b
+
+[FINISHED #137348195] (Wee ShengHao - Jan 10, 2017)",,Create an button to  display and check the seat available,completed,Writing the source code for the button check the seat availability ,completed,Testing the seat available whether display and get the info correct  ,completed,Fixing any bugs and error,completed,Completed,completed
