@@ -72,4 +72,5 @@ public class View_Member extends JFrame{
             System.exit(0);
         }
     }
+    
 }
