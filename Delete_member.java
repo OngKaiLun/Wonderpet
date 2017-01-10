@@ -39,4 +39,5 @@ public class Delete_member extends JFrame{
                     "ID NOT FOUND",JOptionPane.INFORMATION_MESSAGE);
         }
     }
+    
 }
