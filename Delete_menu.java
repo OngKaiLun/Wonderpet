@@ -33,7 +33,7 @@ public class Delete_menu extends JFrame{
             if(n==JOptionPane.OK_OPTION)
                 prodControl.DeleteRecord(product);
         }
-        else {
+        else { 
                 JOptionPane.showMessageDialog(null, "This Member Id NOT FOUND.", 
                         "ID NOT FOUND",JOptionPane.INFORMATION_MESSAGE);
         }
