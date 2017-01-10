@@ -134,5 +134,5 @@ public class LogIn extends JFrame{
         new LogIn();
     }
     
-    
+     
 }
