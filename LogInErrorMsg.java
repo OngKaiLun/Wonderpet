@@ -45,5 +45,5 @@ public class LogInErrorMsg extends JFrame{
 //start timer to close JDialog as dialog modal we must start the timer before its visible
     timer.start();
     dialog.setVisible(true);    
-    }
+    } 
 }
