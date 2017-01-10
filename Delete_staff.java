@@ -9,7 +9,7 @@ package UI.Staff;
  *
  * @author Lim Zhen Kai
  */
-import Control.MaintainStaffControl;
+import Control.MaintainStaffControl; 
 import domain.Staff;
 import javax.swing.*;
 
