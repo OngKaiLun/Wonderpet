@@ -63,4 +63,5 @@ public class Print_receipt extends JFrame{
         
     }
       
+    
 }
