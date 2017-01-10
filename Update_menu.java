@@ -8,7 +8,7 @@ package UI.Menu;
 /**
  *
  * @author Chan Guan Hao
- */
+ */ 
 import Control.MaintainProductControl;
 import domain.Product;
 import javax.swing.*;
